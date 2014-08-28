@@ -1,0 +1,26 @@
+{
+  "name": "modelx",
+  "version": "0.0.1",
+  "description": "Simple base class for model with manager",
+  "main": "index",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fi11/modelx.git"
+  },
+  "keywords": [
+    "models"
+  ],
+  "bugs": {
+    "url": "https://github.com/fi11/modelx/issues"
+  },
+  "homepage": "https://github.com/fi11/modelx",
+  "author": "Pavel Silin",
+  "license": "MIT",
+  "dependencies": {
+    "obj-c": "0.1.0"
+  },
+  "devDependencies": {
+    "mocha": "1.21.4",
+    "chai": "1.9.1"
+  }
+}
