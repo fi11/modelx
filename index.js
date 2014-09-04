@@ -1,4 +1,4 @@
-var Obj = require('obj-c');
+var Obj = require('obx');
 var Model;
 
 exports.Model = Model = Obj.create(function Model(ctx) {
