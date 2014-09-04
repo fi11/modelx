@@ -45,7 +45,7 @@ var ChildModel = MyModel.create('ChildModel', {
 ```
 ## Inherits
 
-For inherits detail see [obj-c](https://www.npmjs.org/package/obx)
+For inheritance detail see [obx](https://www.npmjs.org/package/obx)
 
 ## Running tests
 
