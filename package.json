@@ -1,6 +1,6 @@
 {
   "name": "modelx",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Simple base class for model with manager",
   "main": "index",
   "repository": {
@@ -19,7 +19,7 @@
   "author": "Pavel Silin",
   "license": "MIT",
   "dependencies": {
-    "obx": "0.0.1"
+    "obx": "~0.0.2"
   },
   "devDependencies": {
     "mocha": "1.21.4",
